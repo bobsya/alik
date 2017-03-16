@@ -1,0 +1,9 @@
+diff a/scripts/sripts.js b/scripts/sripts.js	(rejected hunks)
+@@ -304,7 +304,6 @@
+ 	};
+ 	
+ });
+-    //                 .setTween("#bird_2", 2, {top: "23%", right:"27%" })
+ 
+ function isMobile() { 
+ 	if (navigator.userAgent.match(/Android/i)

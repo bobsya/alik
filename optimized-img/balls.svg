@@ -1,0 +1,26 @@
+<svg width='188px' height='188px' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="uil-balls"><rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect><g transform="rotate(0 50 50)">
+  <circle r="5" cx="35" cy="50">
+    <animateTransform attributeName="transform" type="translate" begin="0s" repeatCount="indefinite" dur="1s" values="0 0;10.364745084375787 -14.265847744427303" keyTimes="0;1"/>
+    <animate attributeName="fill" dur="1s" begin="0s" repeatCount="indefinite"  keyTimes="0;1" values="#d45b5b;#d56f5b"/>
+  </circle>
+</g><g transform="rotate(72 50 50)">
+  <circle r="5" cx="35" cy="50">
+    <animateTransform attributeName="transform" type="translate" begin="0s" repeatCount="indefinite" dur="1s" values="0 0;10.364745084375787 -14.265847744427303" keyTimes="0;1"/>
+    <animate attributeName="fill" dur="1s" begin="0s" repeatCount="indefinite"  keyTimes="0;1" values="#d56f5b;#88cc2a"/>
+  </circle>
+</g><g transform="rotate(144 50 50)">
+  <circle r="5" cx="35" cy="50">
+    <animateTransform attributeName="transform" type="translate" begin="0s" repeatCount="indefinite" dur="1s" values="0 0;10.364745084375787 -14.265847744427303" keyTimes="0;1"/>
+    <animate attributeName="fill" dur="1s" begin="0s" repeatCount="indefinite"  keyTimes="0;1" values="#88cc2a;#4cc0d4"/>
+  </circle>
+</g><g transform="rotate(216 50 50)">
+  <circle r="5" cx="35" cy="50">
+    <animateTransform attributeName="transform" type="translate" begin="0s" repeatCount="indefinite" dur="1s" values="0 0;10.364745084375787 -14.265847744427303" keyTimes="0;1"/>
+    <animate attributeName="fill" dur="1s" begin="0s" repeatCount="indefinite"  keyTimes="0;1" values="#4cc0d4;#b991d0"/>
+  </circle>
+</g><g transform="rotate(288 50 50)">
+  <circle r="5" cx="35" cy="50">
+    <animateTransform attributeName="transform" type="translate" begin="0s" repeatCount="indefinite" dur="1s" values="0 0;10.364745084375787 -14.265847744427303" keyTimes="0;1"/>
+    <animate attributeName="fill" dur="1s" begin="0s" repeatCount="indefinite"  keyTimes="0;1" values="#b991d0;#d45b5b"/>
+  </circle>
+</g></svg>
